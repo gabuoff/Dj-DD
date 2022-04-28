@@ -1,3 +1,5 @@
+//https://discord.com/api/oauth2/authorize?client_id=960600440221876314&permissions=8&scope=bot%20applications.commands
+
 const Discord = require("discord.js")
 const dotenv = require("dotenv")
 const { REST } = require("@discordjs/rest")
