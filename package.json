@@ -1,9 +1,10 @@
 {
-  "name": "dj-g1bot-music-dd",
+  "name": "dj-g1",
   "version": "1.0.0",
   "description": "a dj bot tha will play songs for you",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gbac_melo",
