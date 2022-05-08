@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "load": "node index.js load",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gbac_melo",
